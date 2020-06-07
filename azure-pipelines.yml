@@ -1,5 +1,5 @@
 trigger:
-- 'master'
+- 'build-pipeline'
 
 pool:
   vmImage: 'ubuntu-18.04'
